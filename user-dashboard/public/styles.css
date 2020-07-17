@@ -1,0 +1,74 @@
+#sideMenu
+{
+  width: 15rem;
+height: 100%;
+background-color: #0ab68b;
+text-align: center;
+}
+#sideMenu-section{
+  width: 15rem;
+  height: 100%;
+  background-color: #0ab68b;
+  padding-left: 1rem;
+  border-bottom: 1px solid #028174;
+}
+
+#sideMenu nav{
+  padding:0;
+}
+.sideMenu-item
+{
+  color: #fff;
+  text-decoration: none;
+  padding: 1.5rem 1rem;
+  transition: all 0.2s ease-in-out;
+  border-bottom: 0.1px solid #028174;
+  margin: 0;
+}
+.sideMenu-item:hover
+{
+  background-color: #028174;
+  border-left: 10px solid #ffe3b3;
+}
+
+.user-icon-user-dashboard
+{
+  font-size: 3rem;
+  padding: 1rem 0;
+  
+}
+
+@media (max-width:1000px)
+{
+  #sideMenu-section
+  {
+    width: 100%;
+    text-align: center;
+    
+    
+  }
+  
+ 
+}
+
+
+header {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+header h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+footer {
+ background-color: #f5ba13;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
