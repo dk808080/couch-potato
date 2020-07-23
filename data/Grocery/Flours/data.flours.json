@@ -1,0 +1,26 @@
+[
+	{
+		"id": 220,
+		"productName": "Family Farm Maida",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_403177.jpg",
+		"quantity": "500g",
+		"price": "24",
+		"description": "Family Farm Maida is an all-purpose flour that is used to make numerous dishes and to thicken gravies and soups. This white flour has a smooth and fine texture. Milled and refined to form a soft, powdered flour. This flour can be used for a variety of cooking and frying purposes. It makes a smooth batter, and is used to make crispy, deep-fried savoury snacks. It is also used in bakery products like pastries, bread, and cakes."
+	},
+	{
+		"id": 221,
+		"productName": "Patanjali Besan",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_10917.jpg",
+		"quantity": "500g",
+		"price": "55",
+		"description": "Rajdhani Besan is the healthy option for the whole family as it is purely made from chana dal. Make many delicious fried snacks like Kadhi, dhokla, fafda, and namkeens to treat your tastebuds. It is rich in proteins, dietary fibre, and various minerals like calcium and iron. Packaged in a hygienic facility. It helps the body to get through fatigue. Consumption can help you with the regulation of blood pressure because of the magnesium content."
+	},
+	{
+		"id": 222,
+		"productName": "Organic Tattva Besan",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_13452.jpg",
+		"quantity": "500g",
+		"price": "40",
+		"description": "Organic Tattva Besan is made from the best-quality channa dal, the besan is organic and free from harmful chemicals and pesticides, contains minerals like iron, copper, and phosphorous that are essential for good health, also contains Vitamin B-complex and folate that boost your immunity, has a sweetish taste and can be used to make both sweets and savouries, use it to make fried snacks and dhoklas."
+	}
+]

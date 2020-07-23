@@ -1,0 +1,26 @@
+[
+	{
+		"id": 240,
+		"productName": "Catch Chat Masala (Sprinkler)",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_10895.jpg",
+		"quantity": "100g",
+		"price": "68",
+		"description": "Catch Chat Masala (Sprinkler) is a zingy, tangy, slightly-hot masala that makes the perfect seasoning. Though often used as a spice in cooking, chaat masala is mostly used as a garnish on salads, chaats (a generic name for savory Indian snacks), drinks like Indian lemonade, meals like curries and dals, etc. Prepared from carefully sourced spices grounded finely. Highly nutritious, contains nutrients like iron and calcium that are good for your health. Comes in easy-to-use sprinkler case with different settings."
+	},
+	{
+		"id": 241,
+		"productName": "MDH Kitchen King Masala",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_74.jpg",
+		"quantity": "100g",
+		"price": "68",
+		"description": "MDH Kitchen King Masala is a ready mix of aromatic spices powdered perfectly to bring any dish alive. Consisting of premium quality spices ground together it is naturally a connoiseur’s choice. Used sparingly it can lend an authentic taste to any curry with its enhanced taste and aroma. Sprinkle a little of this spice mix on your vegetable fry and enjoy the rich taste with hot chapatis. A balanced masala prepared using modern technology for retaining flavour and freshness."
+	},
+	{
+		"id": 242,
+		"productName": "Catch Turmeric Powder/Haldi",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_18857.jpg",
+		"quantity": "200g",
+		"price": "56",
+		"description": "Processed using the traditional grinding techniques, Catch Turmeric Powder/Haldi is known for its earthy taste and therapeutic properties. It is used to bring flavour to broths and curries and add a rich golden yellow colour. It is ground at low temperature to keep the flavour intact. A mild and healthy spice that imparts a healthy colour to food. Has therapeutic properties and can be used for medicinal purposes as well."
+	}
+]

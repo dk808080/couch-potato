@@ -1,0 +1,18 @@
+[
+	{
+		"id": 310,
+		"productName": "Family Farm Almonds",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_400111.jpg",
+		"quantity": "200g",
+		"price": "592",
+		"description": "Make a healthy and tasty addition to both sweet and savoury dishes with Almonds Dry Fruit. It is consumed raw and is sprinkled over a variety of recipes like desserts, sundaes, biscuits, cakes and ice cream based preparations."
+	},
+	{
+		"id": 311,
+		"productName": "Nutraj Premium California Pistachios",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_423354.jpg",
+		"quantity": "200g",
+		"price": "379",
+		"description": "A wonder snack for a nutritious and wholesome experience is this Nutraj pack of roasted and salted California pistachios, rich in proteins, fiber and anti-Oxidants. Low cholesterol nut with zero trans fat."
+	}
+]

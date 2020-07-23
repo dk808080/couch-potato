@@ -1,0 +1,26 @@
+[
+	{
+		"id": 130,
+		"productName": "Kiwi",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_394525.jpg",
+		"quantity": "3units",
+		"price": "150",
+		"description": "The bright green flesh of the Kiwi with tiny black seeds gives a tropical flair to any fruit salad. It is almost creamy in consistency and has a pleasant sweet taste."
+	},
+	{
+		"id": 131,
+		"productName": "Green Apple - Imported",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_336515.jpg",
+		"quantity": "4units",
+		"price": "305",
+		"description": "Green Apple, also known as Granny Smith is crisp with lemon-like tartness. It is firm, medium grained and has bright white flesh and is excellent for pie baking or can be eaten as whole."
+	},
+	{
+		"id": 132,
+		"productName": "Watermelon",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_369752.jpg",
+		"quantity": "1unit",
+		"price": "60",
+		"description": "Watermelon is a watery and pulpy fruit with a granular texture and a sugary taste, enveloped by a thick dark green skin. Usually relished as raw, this versatile fruit is juicy, crispy and irresistibly sweet. It can also be used to make juice, jam, sorbet, iced tea, etc."
+	}
+]

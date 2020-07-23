@@ -1,0 +1,26 @@
+[
+	{
+		"id": 120,
+		"productName": "Kellogg's Original Corn Flakes (Pouch)",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_406721.jpg",
+		"quantity": "1.2kg",
+		"price": "425",
+		"description": "High in iron,High in Vitamin B1, B2, B3, B6 & C and Naturally cholesterol free, Packed with nourishment. Start your day with a tasty breakfast"
+	},
+	{
+		"id": 121,
+		"productName": "Amul Lassi (Tetra Pak) - Pack of 12",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_425017.jpg",
+		"quantity": "12*1L",
+		"price": "840",
+		"description": "Delicious and nutritious, Amul Lassi (Tetra Pak) is a refreshing milk based drink. Enriched with nutrients, it makes for a healthy and tasty accompaniment to everyday meals. It can be relished anytime of the day and tastes best when served chilled."
+	},
+	{
+		"id": 122,
+		"productName": "Veeba Cheese & Chilli Sandwich Spread",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_357433.jpg",
+		"quantity": "275g",
+		"price": "89",
+		"description": "Made up of choicest ingredients. Brings together cheese and chilli.Great for making sandwiches and rolls.A must have in every kitchen."
+	}
+]
