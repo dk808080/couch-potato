@@ -3,24 +3,80 @@
 		"id": 120,
 		"productName": "Kellogg's Original Corn Flakes (Pouch)",
 		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_406721.jpg",
-		"quantity": "1.2kg",
-		"price": "425",
+		"quantity": "1.2 kg",
+		"price": "₹425",
 		"description": "High in iron,High in Vitamin B1, B2, B3, B6 & C and Naturally cholesterol free, Packed with nourishment. Start your day with a tasty breakfast"
 	},
 	{
 		"id": 121,
 		"productName": "Amul Lassi (Tetra Pak) - Pack of 12",
 		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_425017.jpg",
-		"quantity": "12*1L",
-		"price": "840",
+		"quantity": "12*1 L",
+		"price": "₹840",
 		"description": "Delicious and nutritious, Amul Lassi (Tetra Pak) is a refreshing milk based drink. Enriched with nutrients, it makes for a healthy and tasty accompaniment to everyday meals. It can be relished anytime of the day and tastes best when served chilled."
 	},
 	{
 		"id": 122,
 		"productName": "Veeba Cheese & Chilli Sandwich Spread",
 		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_357433.jpg",
-		"quantity": "275g",
-		"price": "89",
+		"quantity": "275 g",
+		"price": "₹89",
 		"description": "Made up of choicest ingredients. Brings together cheese and chilli.Great for making sandwiches and rolls.A must have in every kitchen."
+	},
+	{
+		"id": 123,
+		"productName": "Hershey's Cookies 'n' Creme Milk Shake - Pack of 10",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_404082.jpg",
+		"quantity": "10*200 ml",
+		"price": "₹350",
+		"description": "Rich, creamy and scrumptious cookie n crème flavoured milk, Fortified with the goodness of milk, Deliciously healthy and nutritious drink, Indulging and tempting treat for the taste buds."
+	},
+	{
+		"id": 124,
+		"productName": "Gowardhan Classic Block Paneer",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_123007.jpg",
+		"quantity": "200 g",
+		"price": "₹85",
+		"description": "Made from the fresh cow milk Gowardhan Classic Block Paneer enhances the flavours of everyday cooking dishes. Enjoy this protein and nutrient-rich cubes of paneer for good health and immunity. Use this healthy ingredient in making any sumptuous Indian, Chinese, or other continental dishes. It is an unsalted, homemade delicious paneer made purely from cows milk. A powerhouse of calcium and protein and helps in the fat-burning process and thus reducing weight."
+	},
+	{
+		"id": 125,
+		"productName": "Mother Dairy Classic Curd (Cup)",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_357433.jpg",
+		"quantity": "400 gg",
+		"price": "₹50",
+		"description": "Made from the freshest ingredients and have Uniformly smooth texture. Simply delicious and fresh and Packed with great nutrition and taste."
+	},
+	{
+		"id": 126,
+		"productName": "Amul Butter",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_160.jpg",
+		"quantity": "500 g",
+		"price": "₹235",
+		"description": "Made from the freshest of cream, the Amul butter has lovely taste which is delicate and slightly salty. This finely processed butter is natural, pure and tastes best overwith toasts and sandwiches. Has a natural and pure formulation that gives it a great taste. Made from fresh cream that has a wonderful flavour. Spread it over toast or cook your curries in it for a heavenly taste."
+	},
+	{
+		"id": 127,
+		"productName": "Amul Lassi (Tetra Pak) - Pack of 12",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_425017.jpg",
+		"quantity": "12*1L",
+		"price": "₹840",
+		"description": "Delicious and nutritious, Amul Lassi (Tetra Pak) is a refreshing milk based drink. Enriched with nutrients, it makes for a healthy and tasty accompaniment to everyday meals. It can be relished anytime of the day and tastes best when served chilled."
+	},
+	{
+		"id": 128,
+		"productName": "Saffola Classic Masala Oats",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_391003.jpg",
+		"quantity": "500 g",
+		"price": "₹190",
+		"description": "Saffola Masala Oats are bursting with flavour and are made from 100% natural wholegrain oats along with real vegetables and the choicest of masalas. Eating Saffola Masala Oats as part of your daily routine is not just fantastically healthy and delicious, but also requires minimal effort for preparation – Ready in just 3 minutes. It satisfies the cravings for those savory flavours as a breakfast cereal or during different times of the day."
+	},
+	{
+		"id": 129,
+		"productName": "Kissan Mixed Fruit Jam",
+		"image": "//cdn.grofers.com/app/images/products/full_screen/pro_18934.jpg",
+		"quantity": "700 g",
+		"price": "₹250",
+		"description": "The best of the fruits now comes packed in Kissan Mixed Fruit Jam, making your daily breakfast and snacks delicious and healthy. Be it as a spread on bread or rolled within a roti or paratha, its delicious taste will always have you craving for more. Made of 100% real fruit ingredients. Crafted to make your breakfast preparations easy. Can be easily spread with a spoon or knife. Sealed carefully to ensure that the rich flavour and taste of the product last longer."
 	}
 ]
