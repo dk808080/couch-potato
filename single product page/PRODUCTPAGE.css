@@ -87,7 +87,8 @@ a.btn {
 	text-transform: uppercase;
 	cursor: pointer;
 	text-decoration: none;
-	width: 500px;
+	min-width: 40vw;
+	max-width: 50vh;
 	line-height: 20px;
 	border-radius: 4px;
 	padding: 1vh 2vh;
